@@ -11,13 +11,7 @@
   </style>
   </head>
   <body>
-      <img src="p.png" width="250" height="250"/>
-    <header class="main-header">
-      <h1 class="visually-hidden">My site</h1>
-    </header>
-    <div class="main-content">
-      <main class="content"><?= $content; ?></main>
-    </div>
-    <footer class="main-footer"> Essa</footer>
+   <img src="p.png" width="250" height="250"/>
+   
   </body>
 </html>
