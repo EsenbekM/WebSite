@@ -11,7 +11,7 @@
   </style>
   </head>
   <body>
-     <img src="https://www.biletik.aero/upload/medialibrary/807/807f262b60da392f1e09aa6d33f20a9b.png" alt="Picture" width="500" height="600">
+      <img src="https://www.biletik.aero/upload/medialibrary/807/807f262b60da392f1e09aa6d33f20a9b.png" alt="Picture" width="500" height="600">
     <header class="main-header">
       <h1 class="visually-hidden">My site</h1>
     </header>
