@@ -11,7 +11,7 @@
   </style>
   </head>
   <body>
-      <logo = "<img src='путь до картинки'>";/>
+      <img src="https://w7.pngwing.com/pngs/731/21/png-transparent-the-punisher-logo-punisher-stencil-skull-decal-monochrome-head-fictional-character.png"  border=0 width=15px height=15px>
     <header class="main-header">
       <h1 class="visually-hidden">My site</h1>
     </header>
