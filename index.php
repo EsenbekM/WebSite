@@ -11,7 +11,7 @@
   </style>
   </head>
   <body>
-      <img src="https://w7.pngwing.com/pngs/731/21/png-transparent-the-punisher-logo-punisher-stencil-skull-decal-monochrome-head-fictional-character.png"  border=0 width=15px height=15px>
+      <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
     <header class="main-header">
       <h1 class="visually-hidden">My site</h1>
     </header>
