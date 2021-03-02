@@ -11,7 +11,7 @@
   </style>
   </head>
   <body>
-      <$logo = "<img src='путь до картинки'>";/>
+      <logo = "<img src='путь до картинки'>";/>
     <header class="main-header">
       <h1 class="visually-hidden">My site</h1>
     </header>
