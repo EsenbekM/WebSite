@@ -1,23 +1,36 @@
 <!DOCTYPE html>
-  <html lang="ru">
-  <head>
-    <title><?= $title; red ?></title>
-    <link rel="stylesheet" href="css/style.css">
-    <style>
-   body {
-    background: #333; 
-    color: #fc0; 
-   }
-  </style>
-  </head>
-  <body>
-      <img src="https://w7.pngwing.com/pngs/731/21/png-transparent-the-punisher-logo-punisher-stencil-skull-decal-monochrome-head-fictional-character.png" width="250" height="250"/>
-    <header class="main-header">
-      <h1 class="visually-hidden">My site</h1>
-    </header>
-    <div class="main-content">
-      <main class="content"><?= $content; ?></main>
-    </div>
-    <footer class="main-footer">Essa</footer>
-  </body>
+<html>
+<head>
+	<title>Portfolio</title>
+</head>
+<body>
+	<div><img src="profile.jpg" width="100" height="100" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+	</div>
+	<div>
+		<h1>Esenbek</h1>
+     	<h1>Mambetov</h1>
+	</div>
+<div>
+	<h3>Social Status: Student</h3>
+	<h3>Age: 17 years</h3>
+  <h4>Phone number: +996-708-601-601 </h4>
+	<p><a href="https://www.instagram.com/esen411k/"> My Instagramm</a></p>
+	<p><a href="https://m.facebook.com/profile.php?id=100016479917100"> FaceBook</a></p>
+	<p><a href="https://github.com/EsenbekM"> GitHub</a></p>
+</div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
 </html>
