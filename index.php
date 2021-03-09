@@ -4,7 +4,7 @@
 	<title>Portfolio</title>
 </head>
 <body>
-	<div><img src="profile.jpg" width="100" height="100" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+	<div><img src="profile.jpg" width="100" height="100" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: center;" border="2";>
 	</div>
 	<div>
 		<h1>Esenbek</h1>
