@@ -48,6 +48,9 @@ a:active {
         <a target="_blank" href="https://www.instagram.com/esen411k/">
 <img src="ins.png" alt="HTML tutorial" style="width:100px;height:100px;">
 </a>
+	<a target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100">
+<img src="fb.png" alt="HTML tutorial" style="width:100px;height:100px;">
+</a>
 	<p><a style="color:orange;" target="_blank" href="mailto:esenbekm03@gmail.com" title="Send me massage">My email</a></p>
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
