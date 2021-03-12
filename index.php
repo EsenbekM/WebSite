@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="shortcut icon" href="logo.png" type="image/png">
 <style>
 body {
   background-image: url('https://bootstraptema.ru/_sf/26/51506352.jpg');
@@ -57,6 +56,11 @@ a:active {
 <img src="mail.png" alt="Email" style="width:70px;height:70px;">
 </a>
 	<p><a style="color:orange;" target="_blank" href="mailto:esenbekm03@gmail.com" title="Send me massage">My email</a></p>
+	
+	<a href="http://esenbek03.herokuapp.com/">
+    <img src="logo.png">
+</a>
+	
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
