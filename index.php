@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="shortcut icon" href="logo.png" type="image/x-icon">
+<link rel="icon" href="logo.png" type="image/x-icon">
 <style>
 body {
   background-image: url('https://bootstraptema.ru/_sf/26/51506352.jpg');
