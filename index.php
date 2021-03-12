@@ -45,7 +45,7 @@ a:active {
 	<p><a style="color:red;" target="_blank"  href="https://www.instagram.com/esen411k/" title="Follow me :)"> My Instagramm</a></p>
 	<p><a style="color:blue;" target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100" title="It's only for PUBG :|"> FaceBook</a></p>
 	<p><a style="color:yelow;" target="_blank" href="https://338b3b1bbb6f.ngrok.io" title="My works"> GitHub</a></p>
-        <a target="_blank" href="https://www.instagram.com/esen411k/">
+        <a target="_blank" href="https://www.instagram.com/esen411k/" title="Follow me>
 <img src="ins.png" alt="HTML tutorial" style="width:70px;height:70px;">
 </a>
 	<a target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100">
