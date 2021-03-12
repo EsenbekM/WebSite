@@ -46,7 +46,7 @@ a:active {
 	<p><a style="color:blue;" target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100" title="It's only for PUBG :|"> FaceBook</a></p>
 	<p><a style="color:yelow;" target="_blank" href="https://338b3b1bbb6f.ngrok.io" title="My works"> GitHub</a></p>
         <a href="https://www.instagram.com/esen411k/">
-<img src="ins.png" alt="HTML tutorial" style="width:42px;height:42px;">
+<img src="ins.png" alt="HTML tutorial" style="width:100px;height:100px;">
 </a>
 	<p><a style="color:orange;" target="_blank" href="mailto:esenbekm03@gmail.com" title="Send me massage">My email</a></p>
 </div>
