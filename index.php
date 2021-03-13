@@ -36,7 +36,7 @@ a:active {
 	<div><img src="profile.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
 	</div>
 	<div>
-		<h1 style="color:blue;" "text-align:center;" ><em> Esenbek Mambetov</em> </h1>
+		<h1 style="text-align:center; color:Lime;" ><em> Esenbek Mambetov</em> </h1>
 	</div>
 <div>
 	<h3 style="color:green;">Social Status: Student</h3>
