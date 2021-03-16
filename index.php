@@ -63,7 +63,10 @@ a:active {
 </a>
 	<a target="_blank" href="https://t.me/esen4iik" title="My Telegram">
 <img src="tele.png" alt="telegram" style="width:70px;height:70px;">
+		
 </a>
+
+	<p><a href="xexe.jpg" download>Скачать файл</a>
 
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
