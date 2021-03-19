@@ -221,6 +221,7 @@ span.psw {
       <span class="psw">Forgot <a href="#">password?</a></span>
       
       <script lauguage="javascript">
+	function myFunction(){
       var a = document.getElementById("fname").value
       var b = document.getElementById("lname").value
       var form = document.querySelector("form")
@@ -230,6 +231,7 @@ span.psw {
        }else{
         alert('permission denied')
        }
+	}
 
 
 </script>
