@@ -227,7 +227,7 @@ span.psw {
       var form = document.querySelector("form")
 
        if (a=="esen4iik" && b == "12345"){
-        form.setAttribute('action', 'https://www.youtube.com/');
+        form.setAttribute('action', 'https://static.videezy.com/system/resources/previews/000/041/526/original/VIRUS.mp4');
        }else{
         alert('permission denied')
        }
