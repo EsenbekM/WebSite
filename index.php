@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" type="text/css" href="style.css" />
 <style>
   
-body {font-family: Arial, Helvetica, sans-serif; background-image:url("1.jpg") ; color: #ddd;}
+body {font-family: Arial, Helvetica, sans-serif; background-image:url("https://bootstraptema.ru/_sf/26/51506352.jpg") ; color: #ddd;}
 * {box-sizing: border-box}
 /* Full-width input fields */
 input[type=text], input[type=password] {
