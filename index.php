@@ -83,7 +83,6 @@ button:hover {
     <label for="psw"><br>Password</label>
     <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
     <label for="psw-repeat"><br>Repeat Password</label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="bname" required>
     
     <label>
     <br>  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
@@ -100,9 +99,8 @@ button:hover {
       function myFunction(){
 var x = document.getElementById('fname').value
 var b = document.getElementById('lname').value
-var c = document.getElementById('bname').value
 var form = document.querySelector('form')
-if (x == "temirlan" && b == "12345" && c=="12345"){
+if (x == "esenbek" && b == "12345" ){
     form.setAttribute("action", "/main.php")
 }else{
     alert("permission denied")
