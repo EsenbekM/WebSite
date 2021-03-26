@@ -79,10 +79,9 @@ button:hover {
     <p style="text-align: center;" >Please fill in this form to create an account.</p>
     <hr>
     <label type="email" size="32" required name="email" style="text-align: center;"><br>Email</label>
-    <input type="text" placeholder="Enter Email" name="email" id="fname"required>
+    <input type="text" placeholder="Enter Login" name="Login   " id="fname"required>
     <label for="psw"><br>Password</label>
     <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
-    <label for="psw-repeat"><br>Repeat Password</label>
     
     <label>
     <br>  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
