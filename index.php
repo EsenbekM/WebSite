@@ -2,7 +2,10 @@
 <html>
 <style>
   
-body {font-family: Arial, Helvetica, sans-serif; background-image:url("https://bootstraptema.ru/_sf/26/51506352.jpg") ; color: #ddd;}
+body {font-family: Arial, Helvetica, sans-serif; background-image:url("https://bootstraptema.ru/_sf/26/51506352.jpg") ; color: #ddd; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;}
 * {box-sizing: border-box}
 /* Full-width input fields */
 input[type=text], input[type=password] {
