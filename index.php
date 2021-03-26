@@ -89,8 +89,8 @@ button:hover {
     
     <p style="text-align: center;">By creating an account you agree to our <a href="https://policies.google.com/" style="color:dodgerblue">Terms & Privacy</a>.</p>
     <div class="clearfix">
-      <button type="button" class="cancelbtn" >Cancel</button>
-      <button type="submit" onclick="myFunction()"class="signupbtn">Sign Up</button>
+      <button type="button" class="cancelbtn" style="text-align:center" >Cancel</button>
+      <button type="submit" onclick="myFunction()"class="signupbtn" style="text-align:center">Sign Up</button>
     </div>
   </div>
 </form>
